@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 .projectKnowledge/
+.iptnb_checkpoints/
+.iptnb_checkpoints
 # Log file
 *.log
 
